@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonah-Developement
+- 👋 Hi, I’m @Jonah-Development
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Assembly X86-64
 
